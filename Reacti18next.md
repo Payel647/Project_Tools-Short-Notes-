@@ -15,8 +15,8 @@ npm install i18next react-i18next
 Example:
 
 ```json
-{ "welcome": "Welcome" } // en
-{ "welcome": "স্বাগতম" } // bn
+{ "welcome": "Welcome" } 
+{ "welcome": "স্বাগতম" } 
 ```
 
 3. **Initialize i18next** (`src/i18n.js`)
